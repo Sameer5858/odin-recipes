@@ -1,2 +1,2 @@
 # odin-recipes
-going to use my html skills and see how much I have learnt
+Created a simple recipe site using basic html thanks to the odin project.
